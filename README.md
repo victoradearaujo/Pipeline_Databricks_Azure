@@ -26,7 +26,7 @@ The Data Lake is structured into three layers:
 - `Silver`: Refined and structured data ready for analytics.
 
 <p align="center">
-  <img src="assets/data-lake-structure.png" alt="Data Lake Structure" width="600"/>
+  <img src="data-lake-structure.png" alt="Data Lake Structure" width="600"/>
 </p>
 
 ## 🔧 Project Steps
@@ -43,7 +43,7 @@ The Data Lake is structured into three layers:
 ## 📂 Data Organization
 
 <p align="center">
-  <img src="assets/data-organization.png" alt="Data Organization Flow" width="600"/>
+  <img src="data-organization.png" alt="Data Organization Flow" width="600"/>
 </p>
 
 ## 🔄 Orchestration
@@ -51,8 +51,13 @@ The Data Lake is structured into three layers:
 Pipeline execution is fully automated using **Azure Data Factory**, with time-based **triggers** defined according to business requirements.
 
 <p align="center">
-  <img src="assets/data-factory-pipeline.png" alt="Azure Data Factory Pipeline" width="600"/>
+  <img src="data-factory-pipeline.png", alt="Azure Data Factory Pipeline" width="600"/>
 </p>
+
+<p align="center">
+  <img src="trigger.png", alt="Azure Data Factory Pipeline" width="600"/>
+</p>
+
 
 ## 📈 Expected Outcomes
 
@@ -67,3 +72,17 @@ Pipeline execution is fully automated using **Azure Data Factory**, with time-ba
 1. Clone the repository:
    ```bash
    git clone https://github.com/victoradearaujo/Pipeline_Databricks_Azure.git
+
+   ## ✨ Contributing
+   
+
+Feel free to open issues or submit pull requests. 💬
+
+---
+
+## 👤 Author
+
+Victor Araujo  
+
+
+---
